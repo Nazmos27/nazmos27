@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQGVUDkyt_ZPzg/profile-displaybackgroundimage-shrink_200_800/0/1670242735358?e=2147483647&v=beta&t=NlenxmhjB-1JZtA5rQx33vrUhgC-P4xUYFhZA2UkD5g)](https://portfolio-website-204fd.web.app)
+[![MasterHead](https://images.prismic.io/loco-blogs/79328284-f97b-489f-924c-eb3b17e34b56_image2.png?auto=compress%2Cformat&rect=0%2C0%2C1999%2C1124&w=1920&h=1080&ar=1.91%3A1)](https://portfolio-website-204fd.web.app)
 <h1 align="center">Hi 👋, I'm Md. Nazmos Sakib</h1>
 <h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif"/>
