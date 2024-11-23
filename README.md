@@ -7,17 +7,17 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-website-204fd.web.app](https://portfolio-website-204fd.web.app)
 
-- 💬 Ask me about **react, javaScript, html, css**
+- 💬 Ask me about **JavaScript, ReactJs, HTML, CSS, MERN stack, NextJs**
 
 - 📫 How to reach me **nazmos789@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1igwlgIk9CX1_ufVrv9oBLYJKUCaydb2-/view?usp=sharing](https://drive.google.com/file/d/1igwlgIk9CX1_ufVrv9oBLYJKUCaydb2-/view?usp=sharing)
 
-- ⚡ Fun fact **I can sketch and Draw cartoon**
+- ⚡ Fun fact **I can sketch and draw cartoons!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nazmos-sakib-31ab58274/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazmos-sakib-31ab58274/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nsakib27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazmos-sakib-31ab58274/" height="30" width="40" /></a>
 <a href="https://fb.com/nazmos sakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nazmos sakib" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/nsakib_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nsakib_27" height="30" width="40" /></a>
 </p>
